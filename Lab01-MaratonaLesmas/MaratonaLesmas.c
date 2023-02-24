@@ -18,7 +18,7 @@ int MaratonaLesmas(int n, int *velocidades, int horas){
     if (horas == 1) limite = 100;
     else if (horas == 2) limite = 20;
     else if (horas == 3) limite = 10;
-    else return -1;
+    else return -1; // Valor inválido na quantidade de horas da maratona
 
     // Maior velocidade das lesmas qualificadas
 

@@ -43,12 +43,11 @@ int *intercalaFilas(int filaA[], int filaB[], int tamanhoFilaA, int tamanhoFilaB
             j--;
         }
     }
-
     return vetorIntercalado;
 }
 
 int **LeEntrada(){
-    int n, **filas;
+    int n, k, **filas;
 
     // Lendo a quantidade de linhas (filas)
     scanf("%d", &n);
@@ -61,7 +60,6 @@ int **LeEntrada(){
 
     for (int i = 1; i <= n; i++){
         // Lendo a quantidade de elementos na linha
-        int k;
         scanf("%d", &k);
 
         // Alocando e preenchendo cada linha
@@ -99,47 +97,46 @@ int *FilasBanco(int **filasOriginais){
     // Criando variáveis
     int *filaIntercalada, *aux; // aux é utilizada para que não percamos referência dos vetores alocados
     int tamanhoFilaA, tamanhoFilaB;
-
-    // Intercalando as duas primeiras filas iniciais
-    tamanhoFilaA = filasOriginais[1][0];
-    tamanhoFilaB = filasOriginais[2][0];
-
-    filaIntercalada = intercalaFilas(filasOriginais[1] + 1, filasOriginais[2] + 1, tamanhoFilaA, tamanhoFilaB);
     
-    // Intercalando as demais filas
-    for (int i = 3; i <= n; i++){
-        aux = filaIntercalada; // Guardando a referência da fila intercalada atual em aux
-        tamanhoFilaA = tamanhoFilaA + tamanhoFilaB; // Tamanho da fila intercalada atual
+    filaIntercalada = NULL;
+    tamanhoFilaA = 0;
+    
+    // Intercalando as filas
+    for (int i = 1; i <= n; i++){
         tamanhoFilaB = filasOriginais[i][0]; // Tamanho da próxima linha da matriz (próxima fila)
+        aux = filaIntercalada; // Guardando a referência da fila intercalada atual em aux
         
         // Intercalando a fila - obtendo novo vetor alocado na memória
         filaIntercalada = intercalaFilas(filaIntercalada, (filasOriginais[i] + 1), tamanhoFilaA, tamanhoFilaB);
-        
+
+        tamanhoFilaA = tamanhoFilaA + tamanhoFilaB; // Tamanho atualizado da fila intercalada
+    
         // Destruindo fila intercalada antiga
         DestroiVetor(&aux);
+
     }
-
     return filaIntercalada;
-
 }
 
 int main(void){
     // Lendo entrada
     int **filas = LeEntrada();
+    int n = *(filas[0]);
 
     // Intercalando a matriz
     int *filaIntercalada = FilasBanco(filas);
 
+
     // Calculando o tamanho do vetor final
     int tamanhoTotalFila = 0;
-    for (int i = 1; i <= *(filas[0]); i++){
+    for (int i = 1; i <= n; i++){
         tamanhoTotalFila += filas[i][0];
     }
 
     // Produzindo a saída
-    printf("%d", filaIntercalada[0]);
-    for (int j = 1; j < tamanhoTotalFila; j++){
-        printf(" %d", filaIntercalada[j]);
+    for (int j = 0; j < tamanhoTotalFila; j++){
+        if (j == 0) printf("%d", filaIntercalada[j]); // Formatando o primeiro print
+        else printf(" %d", filaIntercalada[j]); // Demais prints possuem um espaço
     }
 
     // Liberando memória

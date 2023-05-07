@@ -168,7 +168,7 @@ bool Backtrack(Labirinto *L, Ponto P)
       //   return true;
       // }
       res = Backtrack(L,passo);
-      L->Posicao[passo.y][passo.x] = valor_anterior;
+      // L->Posicao[passo.y][passo.x] = valor_anterior;
     }
   }
   free(A.adj);

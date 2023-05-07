@@ -1,164 +1,157 @@
-#include <stdlib.h>
 #include <stdio.h>
-#include <stdbool.h>
+#include <malloc.h>
 
-int col_number(char value) {
-    switch (value) {
-    case 'A':
-        return 1;
-    case 'B':
-        return 2;
-    case 'C':
-        return 3;
-    case 'D':
-        return 4;
-    case 'E':
-        return 5;
-    case 'F':
-        return 6;
-    case 'G':
-        return 7;
-    case 'H':
-        return 8;
-    default:
-        return 30;
-    }
+int* criaVetorInteiro(int nlin) {
+	
+	int* v = (int*) calloc(nlin, sizeof(int));
+	return v;
+	
 }
 
-char col_char(int value) {
-    switch (value) {
-    case 1:
-        return 'A';
-    case 2:
-        return 'B';
-    case 3:
-        return 'C';
-    case 4:
-        return 'D';
-    case 5:
-        return 'E';
-    case 6:
-        return 'F';
-    case 7:
-        return 'G';
-    case 8:
-        return 'H';
-    default:
-        return ' ';
-    }
+void destroiVetorInteiro(int** v) {
+
+	if ( (*v) != NULL) {
+		
+		free(*v);
+		*v = NULL;
+	}
 }
 
-typedef struct {
-    int row;
-    int col;
-} position;
-
-position possible_moves[8] = {
-    { .row =  2, .col = -1 },
-    { .row =  2, .col =  1 },
-    { .row =  1, .col =  2 },
-    { .row = -1, .col =  2 },
-    { .row = -2, .col =  1 },
-    { .row = -2, .col = -1 },
-    { .row = -1, .col = -2 },
-    { .row =  1, .col = -2 },
-};
-
-bool is_position_valid(position pos) {
-    if (pos.col < 1 || pos.col > 8) {
-        return false;
-    }
-
-    if (pos.row < 1 || pos.row > 8) {
-        return false;
-    }
-
-    return true;
+int** criaMatrizInteira(int nlin, int ncol) {
+	
+	int** m = (int**) calloc(nlin, sizeof(int*));
+	for (int i = 0; i < nlin; i++) 
+		m[i] = (int*) calloc(ncol, sizeof(int));
+	return m;
+	
 }
 
-void print_position(position pos) {
-    char col = col_char(pos.col);
-    printf("%c %d\n", col, pos.row);
+void destroiMatrizInteira(int*** m, int nlin) {
+	
+	if ((*m) != NULL) {
+		
+		for (int i = 0; i < nlin; i++) 
+			free((*m)[i]);
+	}
+	free(*m);
+	*m = NULL;
 }
 
-void print_valid_moves(position pos) {
-    for (int move = 0; move < 8; move++) {
-        position current_move = possible_moves[move];
-        position move_pos = {
-            .row = pos.row + current_move.row,
-            .col = pos.col + current_move.col
-        };
+int** criaListaPosicoes(int n) {
 
-        if (is_position_valid(move_pos)) {
-            print_position(move_pos);
-        }
-    }
+	int** lista = (int**) calloc(n, sizeof(int*));
+	return lista;
+
 }
 
-position scan_position() {
-    char col = ' ';
-    int row;
+int emConflito(int *posicao, int **tabuleiro) {
 
-    scanf(" %c %d", &col, &row);
-    position pos = { .row = row, .col = col_number(col) };
-    return pos;
-}
+    int linha, coluna;
 
-bool equals(position pos1, position pos2) {
-    return pos1.row == pos2.row && pos1.col == pos2.col;
-}
+	/* Percorrendo o sentido em que o cavalo irá andar... */
+    for (int s = 1; s > - 2; s = s - 2)
+		
+		/* Percorrendo o sentido em que o cavalo irá andar naquela direção... */
+        for (int d = 0; d < 2; d++)
+			
+			/* Percorrendo as duas possibilidades para fechar o L... */
+            for (int t = -1; t < 2; t = t + 2) {
 
-bool is_attacking(position pos1, position pos2) {
-    position diff = {
-        .row = pos1.row - pos2.row,
-        .col = pos1.col - pos2.col
-    };
+                linha = posicao[0] + 2 * (1 - d) * s  - d * s * t;
+                coluna = posicao[1] + 2 * d * s  + (1 - d) * s * t;
 
-    for (int move = 0; move < 8; move++) {
-        if (equals(diff, possible_moves[move])) {
-            return true;
-        }
-    }
+				/* Verificando se o movimento é válido... */
+                if ( ( (0 <= linha) && (linha < 8) ) && ( (0 <= coluna) && (coluna < 8) ) ) {
 
-    return false;
-}
-
-void scan_positions(position positions[], int n) {
-    for (int i = 0; i < n; i++) {
-        positions[i] = scan_position();
-    }
-}
-
-bool check_board(position positions[], int n) {
-    for (int i = 0; i < n; i++) {
-        for (int j = 0; j < i; j++) {
-            if (is_attacking(positions[i], positions[j])) {
-                return true;
+					/* Verificando se há outro cavalo na posição... */
+					if (tabuleiro[linha][coluna] == 1)
+						return 1;
+					
+                }
             }
-        }
-    }
-
-    return false;
+			
+	return 0;
 }
 
-void activity1() {
-    position pos = scan_position();
-    print_valid_moves(pos);
+void estaEmPaz(int n, int** posicoes, int** tabuleiro) {
+
+	/* Caso haja, apenas, um cavalo, o reino está em paz */
+	if (n < 2) {
+		printf("Paz no reino!");
+		return;
+	}
+	
+	for (int i = 0; i < n; i++) {
+	
+		/* Só faz sentido testar se há cavalos em conflito se há, pelo menos,
+		um cavalo na tabuleiro... */
+		if (i > 1) {
+		
+			/* Testando se o cavalo está em conflito com outro que já está no
+			tabuleiro... */
+			if (emConflito(posicoes[i], tabuleiro) == 1) {
+				printf("Os cavalos estao em guerra!");
+				return;
+			}
+		}
+		
+	/* Colocando o i-ésimo cavalo no tabuleiro */
+	tabuleiro[posicoes[i][0]][posicoes[i][1]] = 1;
+	}
+	
+	printf("Paz no reino!");
+	
+	return;
 }
 
-void activity2() {
-    int n;
-    scanf("%d", &n);
-    position positions[64];
-    scan_positions(positions, n);
-    if (check_board(positions, n)) {
-        printf("Os cavalos estao em guerra!\n");
-    } else {
-        printf("Paz no reino!\n");
-    }
+
+int* converteEntrada(char vertical, int horizontal) {
+
+	int* posicao = criaVetorInteiro(2);
+	
+	/* Como à primeira linha de um tabuleiro é atribuída o número 1, basta deduzir 1 */
+	posicao[0] = horizontal - 1;
+	
+	/* Para converter a letra que corresponde à coluna, pode-se atribuir a uma variável 
+	inteira a diferença entre seu código ASCII e o código da letra A */
+	posicao[1] = vertical - 'A';
+	
+	return posicao;
+	
+
 }
 
-int main(void) {
-    activity2();
-    return EXIT_SUCCESS;
+int main() {
+
+  /* Lendo o número de cavalos... */
+  int n;
+  scanf("%d", &n);
+
+  /* Criando uma lista para armazenar n posições... */
+  int** posicoes = criaMatrizInteira(n, 2);
+  
+  for (int i = 0; i < n; i++) {
+	  
+	char vertical; int horizontal;
+	
+	/* Lendo a entrada do usuário... */ 
+	scanf("\n%c %d", &vertical, &horizontal);
+	
+	posicoes[i] = converteEntrada(vertical, horizontal);
+  }
+  
+  /* Criando o tabuleiro... */
+  int** tabuleiro = criaMatrizInteira(8, 8);
+  
+  /* Imprimindo o estado do reino... */
+  estaEmPaz(n, posicoes, tabuleiro);
+
+  /* Destruindo o tabuleiro */
+  destroiMatrizInteira(&tabuleiro, 8);
+  
+  /* Destruindo a lista de posições */
+  destroiMatrizInteira(&posicoes, n);
+  
+  return 0;
+
 }

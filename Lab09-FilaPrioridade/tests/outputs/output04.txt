@@ -1,0 +1,324 @@
+[ ]
+Sr(a) Shrek desistiu de esperar e foi embora.
+[ ]
+Mesa liberada para Sr(a) Moe,.
+[ ]
+[Spock 234 ... Hawkeye 87]
+Sr(a) Hawkeye desistiu de esperar e foi embora.
+Sr(a) Spock desistiu de esperar e foi embora.
+[ ]
+Sr(a) Sonic desistiu de esperar e foi embora.
+[ ]
+[ ]
+Sr(a) Walter desistiu de esperar e foi embora.
+[ ]
+Sr(a) Gandalf desistiu de esperar e foi embora.
+[Cliff 253 ... Zorro 249]
+Sr(a) Charlie desistiu de esperar e foi embora.
+Mesa liberada para Sr(a) Scooby-Doo.
+Mesa liberada para Sr(a) Cliff.
+Mesa liberada para Sr(a) Zorro.
+[ ]
+[ ]
+[ ]
+Mesa liberada para Sr(a) Godzilla.
+[ ]
+Sr(a) Atticus desistiu de esperar e foi embora.
+Sr(a) Hannibal desistiu de esperar e foi embora.
+[James 477 ... John 327]
+Sr(a) John desistiu de esperar e foi embora.
+Mesa liberada para Sr(a) James.
+[ ]
+[ ]
+[ ]
+Mesa liberada para Sr(a) Mario.
+Mesa liberada para Sr(a) Shrek.
+[John 102 ... John 102]
+Sr(a) John desistiu de esperar e foi embora.
+[ ]
+[ ]
+[Frasier 152 ... Frasier 152]
+Mesa liberada para Sr(a) Frasier.
+[ ]
+[Frasier 52 ... Frasier 52]
+Mesa liberada para Sr(a) Frasier.
+Sr(a) Hannibal desistiu de esperar e foi embora.
+[ ]
+Mesa liberada para Sr(a) Scarlett.
+Sr(a) Bambi desistiu de esperar e foi embora.
+Mesa liberada para Sr(a) Sonic.
+[Kermit 77 ... Kermit 77]
+Mesa liberada para Sr(a) Kermit.
+Sr(a) King desistiu de esperar e foi embora.
+[Ellen 352 ... Harry 274]
+Sr(a) Harry desistiu de esperar e foi embora.
+Mesa liberada para Sr(a) Ellen.
+Sr(a) Batman desistiu de esperar e foi embora.
+[Dorothy 471 ... Dorothy 471]
+Sr(a) Dorothy desistiu de esperar e foi embora.
+[ ]
+[ ]
+[ ]
+[George 309 ... George 309]
+Sr(a) George desistiu de esperar e foi embora.
+[Archie 442 ... Archie 442]
+Mesa liberada para Sr(a) Archie.
+[ ]
+Mesa liberada para Sr(a) Gandalf.
+Mesa liberada para Sr(a) Hawkeye.
+[ ]
+[ ]
+Mesa liberada para Sr(a) Tarzan.
+[ ]
+Sr(a) Tony desistiu de esperar e foi embora.
+[Captain 383 ... Bilbo 367]
+Sr(a) Bilbo desistiu de esperar e foi embora.
+Mesa liberada para Sr(a) Captain.
+Mesa liberada para Sr(a) Ronald.
+Sr(a) Bilbo desistiu de esperar e foi embora.
+Mesa liberada para Sr(a) Bambi.
+[ ]
+[ ]
+[ ]
+Mesa liberada para Sr(a) Wolverine.
+Sr(a) Spock desistiu de esperar e foi embora.
+[ ]
+[ ]
+Mesa liberada para Sr(a) Goku.
+Mesa liberada para Sr(a) Homer.
+[Holden 237 ... Holden 237]
+Mesa liberada para Sr(a) Holden.
+[ ]
+[ ]
+Mesa liberada para Sr(a) Hawkeye.
+Sr(a) James desistiu de esperar e foi embora.
+[ ]
+[ ]
+Sr(a) Tony desistiu de esperar e foi embora.
+Sr(a) Rocky desistiu de esperar e foi embora.
+Sr(a) Betty desistiu de esperar e foi embora.
+[ ]
+[ ]
+[ ]
+[Freddy 215 ... Freddy 215]
+[Freddy 215 ... Freddy 215]
+Mesa liberada para Sr(a) Freddy.
+[ ]
+[ ]
+Sr(a) Winnie-the-Pooh desistiu de esperar e foi embora.
+[Bilbo 262 ... Bilbo 262]
+[Bilbo 262 ... Bilbo 262]
+Mesa liberada para Sr(a) Holly.
+Sr(a) Bilbo desistiu de esperar e foi embora.
+[ ]
+Sr(a) Dorothy desistiu de esperar e foi embora.
+[ ]
+Sr(a) Travis desistiu de esperar e foi embora.
+[Hawkeye 172 ... Hawkeye 172]
+[Hawkeye 172 ... Hawkeye 172]
+[Hawkeye 172 ... Hawkeye 172]
+Mesa liberada para Sr(a) Hawkeye.
+Mesa liberada para Sr(a) Hannibal.
+Sr(a) Spiderman desistiu de esperar e foi embora.
+Mesa liberada para Sr(a) Fred.
+Mesa liberada para Sr(a) Cliff.
+Mesa liberada para Sr(a) Captain.
+Sr(a) Ellen desistiu de esperar e foi embora.
+[ ]
+[Rick 137 ... Rick 137]
+Mesa liberada para Sr(a) Rick.
+[ ]
+[ ]
+[ ]
+[ ]
+[ ]
+[ ]
+Sr(a) Arthur desistiu de esperar e foi embora.
+[ ]
+[ ]
+[ ]
+Mesa liberada para Sr(a) Winnie-the-Pooh.
+Sr(a) Willy desistiu de esperar e foi embora.
+Mesa liberada para Sr(a) Michael.
+[ ]
+[ ]
+Mesa liberada para Sr(a) Arthur.
+[Spock 245 ... Yoda 99]
+Mesa liberada para Sr(a) Cosmo.
+Mesa liberada para Sr(a) Spock.
+[Yoda 99 ... Zorro 36]
+Mesa liberada para Sr(a) Yoda.
+[Zorro 36 ... Zorro 36]
+[Zorro 36 ... Zorro 36]
+[Zorro 36 ... Zorro 36]
+Mesa liberada para Sr(a) Zorro.
+Mesa liberada para Sr(a) Rick.
+Sr(a) Edward desistiu de esperar e foi embora.
+[ ]
+[ ]
+Sr(a) Ellen desistiu de esperar e foi embora.
+Sr(a) James desistiu de esperar e foi embora.
+[Edward 469 ... Dorothy 258]
+Mesa liberada para Sr(a) Edward.
+[Rooster 332 ... Dorothy 258]
+Mesa liberada para Sr(a) Rooster.
+[Frasier 266 ... Rick 171]
+[Darth 357 ... Rick 171]
+[Darth 357 ... Holden 152]
+Sr(a) Holden desistiu de esperar e foi embora.
+[Darth 357 ... Rick 171]
+[Darth 357 ... Rick 171]
+Sr(a) Scarlett desistiu de esperar e foi embora.
+Sr(a) Zorro desistiu de esperar e foi embora.
+Sr(a) Rick desistiu de esperar e foi embora.
+[Dorothy 415 ... Frasier 266]
+Sr(a) Archie desistiu de esperar e foi embora.
+Mesa liberada para Sr(a) Dorothy.
+[Darth 357 ... Hawkeye 89]
+Sr(a) Hawkeye desistiu de esperar e foi embora.
+Sr(a) Frasier desistiu de esperar e foi embora.
+Mesa liberada para Sr(a) Walter.
+[Tony 374 ... Holden 239]
+Sr(a) Holden desistiu de esperar e foi embora.
+Mesa liberada para Sr(a) Tony.
+Sr(a) Porky desistiu de esperar e foi embora.
+Sr(a) John desistiu de esperar e foi embora.
+Mesa liberada para Sr(a) Darth.
+Mesa liberada para Sr(a) Frasier.
+[ ]
+[ ]
+[ ]
+[ ]
+Mesa liberada para Sr(a) Charlie.
+[Frasier 347 ... Darth 116]
+[Frasier 347 ... Darth 116]
+Sr(a) Darth desistiu de esperar e foi embora.
+Sr(a) Frasier desistiu de esperar e foi embora.
+[ ]
+[ ]
+[ ]
+[ ]
+[Goku 100 ... Goku 100]
+Sr(a) Goku desistiu de esperar e foi embora.
+[ ]
+[ ]
+Sr(a) E.T. desistiu de esperar e foi embora.
+Sr(a) Gandalf desistiu de esperar e foi embora.
+Mesa liberada para Sr(a) Charlie.
+Sr(a) Jason desistiu de esperar e foi embora.
+[Gandalf 357 ... Tony 112]
+[Gandalf 357 ... Tony 112]
+[Gandalf 357 ... Hawkeye 103]
+Sr(a) Hawkeye desistiu de esperar e foi embora.
+Mesa liberada para Sr(a) George.
+Sr(a) Tony desistiu de esperar e foi embora.
+[Gandalf 357 ... George 139]
+Sr(a) George desistiu de esperar e foi embora.
+Sr(a) George desistiu de esperar e foi embora.
+[Gandalf 357 ... Bilbo 298]
+[Gandalf 357 ... Bilbo 298]
+Sr(a) Bilbo desistiu de esperar e foi embora.
+Sr(a) Barbie desistiu de esperar e foi embora.
+[Gandalf 357 ... Gandalf 357]
+Sr(a) Gandalf desistiu de esperar e foi embora.
+Mesa liberada para Sr(a) Lassie.
+Mesa liberada para Sr(a) George.
+[ ]
+Sr(a) Captain desistiu de esperar e foi embora.
+Mesa liberada para Sr(a) Shrek.
+[ ]
+[ ]
+[Vito 443 ... Vito 443]
+Sr(a) Vito desistiu de esperar e foi embora.
+[Captain 379 ... Hannibal 378]
+Sr(a) Tarzan desistiu de esperar e foi embora.
+Sr(a) Waldo/Wally desistiu de esperar e foi embora.
+Mesa liberada para Sr(a) Captain.
+Mesa liberada para Sr(a) Hannibal.
+Sr(a) Holly desistiu de esperar e foi embora.
+Sr(a) Rooster desistiu de esperar e foi embora.
+[ ]
+Sr(a) Batman desistiu de esperar e foi embora.
+Sr(a) Mario desistiu de esperar e foi embora.
+Sr(a) Bilbo desistiu de esperar e foi embora.
+Sr(a) Optimus desistiu de esperar e foi embora.
+[ ]
+Sr(a) Moe, desistiu de esperar e foi embora.
+[ ]
+[ ]
+[ ]
+Mesa liberada para Sr(a) Lucy.
+[ ]
+[Bugs 246 ... Bugs 246]
+Sr(a) Bugs desistiu de esperar e foi embora.
+Mesa liberada para Sr(a) Goku.
+[ ]
+Sr(a) Godzilla desistiu de esperar e foi embora.
+Sr(a) Popeye desistiu de esperar e foi embora.
+Sr(a) Jason desistiu de esperar e foi embora.
+Sr(a) Willy desistiu de esperar e foi embora.
+[Sonic 383 ... Sonic 383]
+Sr(a) Sonic desistiu de esperar e foi embora.
+[ ]
+[ ]
+[ ]
+[ ]
+[Freddy 335 ... Ralph 274]
+[Freddy 335 ... Ralph 274]
+Sr(a) Ralph desistiu de esperar e foi embora.
+Mesa liberada para Sr(a) Freddy.
+[ ]
+[Bugs 290 ... Bugs 290]
+Mesa liberada para Sr(a) Bugs.
+[ ]
+[ ]
+Mesa liberada para Sr(a) Godzilla.
+[ ]
+[ ]
+Sr(a) Archie desistiu de esperar e foi embora.
+[Zorro 32 ... Zorro 32]
+Mesa liberada para Sr(a) Zorro.
+[ ]
+Sr(a) Phillip desistiu de esperar e foi embora.
+Mesa liberada para Sr(a) Walter.
+[ ]
+[ ]
+[ ]
+[ ]
+[ ]
+[Tony 68 ... Tony 68]
+[Cosmo 468 ... Tony 68]
+Sr(a) Tony desistiu de esperar e foi embora.
+[Norman 486 ... Cosmo 468]
+Sr(a) Cosmo desistiu de esperar e foi embora.
+[Norman 486 ... Norman 486]
+Sr(a) Godzilla desistiu de esperar e foi embora.
+Mesa liberada para Sr(a) Norman.
+[ ]
+[Gandalf 223 ... Gandalf 223]
+[Gandalf 223 ... Rocky 30]
+Sr(a) Rocky desistiu de esperar e foi embora.
+Mesa liberada para Sr(a) Gandalf.
+Sr(a) Eric desistiu de esperar e foi embora.
+Sr(a) Winnie-the-Pooh desistiu de esperar e foi embora.
+Sr(a) Sonic desistiu de esperar e foi embora.
+Sr(a) James desistiu de esperar e foi embora.
+Sr(a) Bilbo desistiu de esperar e foi embora.
+[Omar 410 ... Sonic 24]
+Sr(a) Sonic desistiu de esperar e foi embora.
+[Omar 410 ... Omar 410]
+Sr(a) Omar desistiu de esperar e foi embora.
+[Eric 199 ... Eric 199]
+[Eric 199 ... Eric 199]
+Mesa liberada para Sr(a) Tony.
+Sr(a) Freddy desistiu de esperar e foi embora.
+Sr(a) Holden desistiu de esperar e foi embora.
+Sr(a) Hannibal desistiu de esperar e foi embora.
+Sr(a) Wolverine desistiu de esperar e foi embora.
+Mesa liberada para Sr(a) Charles.
+[Michael 297 ... Eric 199]
+[Michael 297 ... Eric 199]
+Sr(a) Eric desistiu de esperar e foi embora.
+Mesa liberada para Sr(a) Michael.
+[ ]
+[ ]

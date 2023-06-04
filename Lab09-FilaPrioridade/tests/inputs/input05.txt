@@ -1,0 +1,683 @@
+682
+D
+L
+D
+D
+I Bilbo 489
+D
+D
+I Cosmo 186
+M Cosmo 283
+D
+L
+L
+I Barbie 160
+D
+I Forrest 79
+I Cliff 431
+M Cliff 117
+L
+I Cliff 87
+D
+I Moe, 346
+M Cliff 106
+I E.T. 346
+I Freddy 432
+I Forrest 455
+L
+M Forrest 213
+L
+I Jules 495
+I Holden 168
+I Holly 206
+I Popeye 495
+I Tony 493
+L
+I Wolverine 341
+L
+M Holden 23
+L
+L
+D
+I Homer 84
+I Arthur 223
+I Pikachu 133
+I Tarzan 158
+I James 165
+L
+I James 163
+I George 388
+I Shrek 204
+M Cosmo 401
+I Betty 115
+L
+D
+I Superman 265
+I Phillip 165
+I Gandalf 196
+I Michael 255
+M George 458
+D
+M Tony 397
+M Popeye 437
+I Pikachu 374
+D
+L
+M Phillip 189
+I Optimus 492
+D
+I Spiderman 174
+D
+M Homer 474
+L
+D
+M Tony 419
+D
+D
+L
+I Holly 231
+I Homer 188
+I Pikachu 445
+I Cosmo 222
+I Waldo/Wally 344
+I Betty 82
+D
+L
+M Arthur 265
+L
+M James 488
+I Betty 473
+M Holden 38
+L
+D
+I James 186
+D
+I Sonic 54
+I Rooster 361
+I Willy 12
+I Ralph 338
+I Bilbo 115
+I Forrest 181
+I Lucy 95
+L
+I Rick 232
+M Forrest 111
+I Rocky 247
+L
+M Freddy 422
+L
+M Homer 412
+I Yoda 340
+I Tony 418
+D
+I Harry 423
+I Holly 103
+I Mario 468
+I Superman 203
+I Waldo/Wally 152
+I Edward 185
+D
+D
+M Superman 327
+I Charles 188
+D
+M Pikachu 166
+D
+M Shrek 98
+I Homer 354
+L
+L
+D
+L
+I Shrek 35
+L
+I Ralph 390
+L
+L
+I Yoda 315
+I Jason 341
+D
+I Norman 300
+I Phillip 336
+I Spiderman 224
+I Hannibal 177
+D
+L
+I Atticus 152
+I George 420
+D
+I Kermit 374
+I Shrek 306
+I Goku 356
+L
+I Charles 277
+L
+I Walter 299
+L
+D
+I Hannibal 129
+L
+L
+D
+D
+I James 448
+I Norman 240
+I Scooby-Doo 305
+D
+M Phillip 419
+I Charles 108
+I Godzilla 412
+I Tony 301
+I Norman 373
+I Rocky 94
+I Bugs 389
+M George 43
+L
+I Travis 357
+D
+I Tarzan 314
+I Mary 481
+I Jules 151
+I Spiderman 272
+I Charlie 194
+L
+I Cosmo 211
+I Rocky 143
+I Waldo/Wally 32
+M Betty 476
+D
+I Bugs 279
+L
+L
+I Hannibal 244
+I Tony 421
+I Indiana 349
+I Ellen 273
+L
+I Gandalf 12
+I Holden 119
+I Popeye 280
+I Forrest 351
+L
+M James 132
+M Norman 291
+I Harry 357
+I Buffy 247
+I Optimus 366
+I Marty 98
+M Moe, 45
+I Captain 342
+I Zorro 371
+M Freddy 306
+I Optimus 197
+I Charles 12
+L
+L
+L
+D
+D
+M Holly 475
+I Moe, 79
+I Buffy 310
+I Phillip 204
+I Holden 60
+I Marty 317
+L
+M Superman 192
+I Jules 174
+I Forrest 252
+I Ronald 278
+L
+I Spock 120
+I Goku 389
+D
+D
+L
+D
+D
+M Popeye 106
+I Zorro 288
+I Sonic 479
+I Rick 456
+M George 64
+I Dorothy 498
+M Homer 250
+D
+I Wolverine 297
+I Fred 69
+L
+I Forrest 277
+I Popeye 319
+I Bugs 233
+L
+I Sonic 408
+D
+I Holden 445
+I Waldo/Wally 396
+M Willy 274
+I Bugs 323
+D
+D
+D
+I Gandalf 202
+I John 449
+I Travis 484
+I Ronald 495
+I King 393
+D
+D
+I Fred 337
+I Popeye 499
+L
+I Forrest 307
+I Fred 243
+I Mickey 450
+I Jason 45
+I Peter 87
+D
+I Rooster 500
+D
+D
+I Edward 91
+L
+I Willy 47
+M Fred 296
+L
+I Ronald 406
+M Charles 115
+M Hannibal 486
+L
+L
+D
+I Marty 162
+D
+D
+I Dorothy 179
+I Holden 189
+I Winnie-the-Pooh 38
+I Godzilla 181
+M Walter 152
+D
+L
+L
+D
+M Hannibal 321
+M Forrest 271
+D
+D
+I Zorro 224
+I Bilbo 254
+I Scooby-Doo 408
+D
+I Peter 441
+M Arthur 459
+M Forrest 336
+I Rooster 381
+I Lucy 484
+I Bilbo 12
+I Moe, 154
+I Sonic 83
+I Travis 264
+I Zorro 312
+M Charlie 267
+I Superman 283
+L
+I Dorothy 238
+L
+L
+D
+I Willy 378
+D
+D
+D
+I Bambi 284
+L
+L
+I Katniss 361
+D
+L
+I Edward 281
+I Sonic 395
+I Mario 325
+D
+L
+I Atticus 32
+M Godzilla 174
+I Superman 458
+M Jason 341
+L
+L
+I Optimus 324
+I Bambi 352
+I Eric 237
+D
+I Buffy 106
+I Katniss 70
+L
+L
+I Batman 60
+L
+L
+I James 75
+I Eric 429
+L
+L
+I Rick 303
+I Winnie-the-Pooh 204
+L
+L
+D
+D
+I Tony 116
+L
+I Winnie-the-Pooh 33
+I Tony 326
+D
+I Cliff 152
+I Bugs 366
+L
+M Ralph 79
+M Forrest 77
+D
+D
+I Arthur 86
+I Jason 371
+I Yoda 481
+L
+I Rocky 64
+M Shrek 104
+M Optimus 412
+I Optimus 294
+I Willy 32
+I Bambi 254
+L
+I Lucy 141
+M Winnie-the-Pooh 53
+I Edward 301
+I Fred 206
+I Tony 339
+I Porky 341
+I Cliff 77
+L
+I Kermit 419
+I Archie 318
+L
+I Sonic 340
+D
+L
+D
+I Bilbo 155
+I Rick 219
+I Scarlett 301
+M Scooby-Doo 29
+I Moe, 254
+D
+L
+M Betty 234
+M Dorothy 294
+L
+I Shrek 393
+I Walter 47
+I Spiderman 204
+I Forrest 203
+M Mario 180
+I Moe, 415
+M Sonic 487
+I Peter 275
+D
+I Optimus 18
+I King 185
+D
+I James 352
+M Peter 288
+I Yoda 379
+I Jason 422
+M E.T. 264
+L
+M Willy 370
+D
+D
+I Superman 135
+M Charles 39
+L
+I Lassie 241
+I Ronald 203
+I Harry 10
+I Cosmo 356
+L
+M Phillip 354
+M Norman 462
+L
+L
+I Zorro 452
+L
+I Kermit 262
+I Ronald 455
+M Forrest 46
+D
+D
+I Spiderman 376
+I Spock 312
+I Winnie-the-Pooh 79
+L
+D
+I Harry 247
+I Kermit 328
+M Shrek 134
+D
+D
+D
+I Captain 464
+D
+M Holden 444
+I Jason 377
+I Jason 454
+I Travis 257
+L
+L
+D
+L
+D
+D
+M Michael 154
+M Peter 436
+L
+I Forrest 233
+D
+M Godzilla 495
+I John 402
+M Bambi 429
+I Spiderman 195
+L
+I Bambi 331
+L
+D
+M Hannibal 162
+I Jules 21
+I Archie 102
+I King 126
+D
+I Vito 378
+L
+I Ralph 146
+I Indiana 304
+I Popeye 140
+I Scooby-Doo 170
+M Godzilla 354
+D
+I Betty 442
+I Batman 497
+M Bambi 165
+I Zorro 39
+M Optimus 189
+I Holden 284
+I Holden 482
+M Popeye 122
+D
+L
+D
+I Batman 227
+M Hannibal 263
+I Ralph 172
+I Jason 302
+I Goku 24
+L
+I Atticus 151
+I Ellen 395
+M Lucy 241
+D
+I Freddy 243
+M Ronald 346
+M Holden 205
+I George 464
+I Jason 391
+D
+I Sonic 334
+L
+D
+I Mario 192
+M Bambi 242
+M Buffy 372
+L
+L
+D
+D
+I Norman 412
+M Betty 459
+I Indiana 468
+D
+I Katniss 334
+I Cliff 321
+D
+M E.T. 257
+I Homer 428
+I Rocky 85
+I Optimus 70
+I Frasier 179
+I Superman 482
+L
+I Bambi 210
+I Scooby-Doo 376
+M Shrek 459
+D
+I Indiana 334
+D
+I Edward 216
+M Forrest 190
+I Waldo/Wally 126
+M Cosmo 473
+M Optimus 425
+I Indiana 283
+D
+D
+I Forrest 492
+I Charles 453
+M Shrek 349
+D
+D
+I Harry 322
+I Rocky 356
+I Charlie 310
+I Bambi 432
+I Atticus 452
+I James 362
+M Bambi 38
+L
+I Rick 217
+I Homer 86
+D
+D
+I Rick 393
+I Tarzan 293
+I Barbie 317
+D
+I Darth 197
+M Captain 55
+I Scooby-Doo 300
+I Phillip 25
+L
+I Mario 428
+I Atticus 270
+I Hannibal 258
+I Popeye 395
+D
+M Rooster 393
+I Harry 452
+L
+M Edward 245
+M Tarzan 158
+D
+M Scooby-Doo 433
+L
+M Rick 217
+I Bilbo 357
+L
+L
+D
+M Dorothy 355
+I Katniss 111
+D
+I Fred 461
+D
+I Katniss 216
+D
+I Bilbo 329
+M Goku 386
+L
+L
+L
+I Bambi 367
+M Katniss 177
+D
+I Bugs 475
+D
+I Mary 193
+I Jules 114
+I Homer 167
+M Buffy 318
+I Jason 85
+M Goku 433
+I Jason 73
+I Superman 252
+L
+M King 269
+L
+I Shrek 365
+L
+D
+D
+I Freddy 439
+D
+D
+D
+I Charles 495
+I Buffy 179
+L
+L
+D
+I Optimus 399
+I Jason 80
+M Spock 82
+M George 92
+I Tony 283
+D
+I Hannibal 94
+I Freddy 312
+M Marty 320
+I Popeye 199
+L
+M Optimus 206
+I Charlie 93
+L
+I Phillip 355
+I Barbie 50
+I Charlie 420
+D
+I Bambi 292
+L
+I Rocky 119
+I Arthur 296
+I Spiderman 408
+I Rick 271
+I Peter 467
+I Ellen 18

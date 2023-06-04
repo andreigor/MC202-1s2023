@@ -1,0 +1,18 @@
+17
+I Tarzan 114
+M Tarzan 62
+D
+P
+D
+M Tarzan 180
+M Tarzan 149
+I Scarlett 10
+D
+D
+D
+P
+P
+D
+I Michael 270
+P
+M Michael 264

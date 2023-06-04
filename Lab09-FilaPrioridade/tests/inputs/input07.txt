@@ -1,0 +1,44 @@
+43
+I Mario 198
+M Mario 235
+M Mario 315
+M Mario 489
+I Tarzan 427
+I King 225
+D
+I Waldo/Wally 293
+I Darth 492
+M Darth 19
+I Dorothy 398
+I King 228
+D
+L
+I Willy 238
+D
+D
+I Waldo/Wally 359
+I Godzilla 307
+D
+I Harry 448
+M Willy 466
+I Barbie 384
+M Mario 499
+I Waldo/Wally 110
+D
+D
+M Harry 386
+M Darth 313
+L
+I Vito 403
+I Harry 389
+D
+L
+I Ralph 391
+I Peter 450
+I Scooby-Doo 95
+I Charles 265
+I John 162
+M John 437
+I Harry 167
+I Godzilla 116
+L

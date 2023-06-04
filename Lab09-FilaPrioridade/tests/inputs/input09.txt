@@ -1,0 +1,169 @@
+168
+I Ellen 177
+I Pikachu 383
+L
+D
+I Archie 78
+I Fred 306
+I Shrek 42
+L
+I Barbie 77
+I Ralph 351
+L
+D
+L
+L
+I Peter 37
+D
+I Rooster 49
+L
+M Fred 45
+M Rooster 115
+D
+L
+M Ralph 71
+I Betty 289
+I Bilbo 220
+I Tony 123
+M Barbie 79
+M Ralph 376
+D
+I Omar 119
+M Betty 441
+I Frasier 483
+I Jules 27
+M Frasier 369
+I Kermit 337
+I George 455
+D
+D
+I Fred 497
+M Ellen 407
+I Rick 226
+I Pikachu 291
+I Arthur 218
+M Arthur 334
+M George 354
+I Marty 254
+I Porky 58
+I Phillip 291
+M Bilbo 442
+D
+I James 40
+M Ellen 450
+L
+I Peter 378
+I Phillip 254
+D
+I Scarlett 253
+M Ellen 186
+I Bilbo 94
+M Phillip 463
+I Charlie 194
+I Homer 420
+D
+I King 112
+I Lassie 365
+L
+I George 498
+L
+I Waldo/Wally 484
+L
+L
+D
+I Atticus 50
+D
+D
+I Shrek 46
+D
+M Bilbo 376
+I Sonic 304
+D
+I Eric 173
+L
+M Omar 82
+D
+D
+M Shrek 214
+L
+M Bilbo 493
+D
+I Pikachu 165
+D
+I Edward 386
+D
+I Eric 249
+I Hannibal 17
+M Betty 114
+L
+I Gandalf 379
+D
+I Dorothy 92
+I Freddy 376
+L
+D
+M Pikachu 96
+M Lassie 451
+M James 293
+I Indiana 221
+I Travis 420
+M Kermit 491
+L
+I Godzilla 84
+L
+L
+I Kermit 47
+I Eric 419
+I Harry 40
+I Ralph 169
+I Bugs 332
+I Waldo/Wally 342
+M George 489
+I Superman 194
+I Atticus 303
+I Captain 231
+I Pikachu 18
+L
+L
+I John 49
+L
+I Batman 51
+M Eric 363
+I Holden 221
+I George 249
+I James 89
+D
+I James 241
+D
+I Eric 281
+L
+I Captain 468
+M Barbie 67
+M Edward 358
+L
+L
+M Pikachu 423
+I Marty 338
+L
+I Tony 35
+I Jason 161
+I Travis 52
+M Jules 225
+I Mary 49
+M George 212
+I Frasier 92
+I Spiderman 472
+L
+M Bugs 214
+I Scooby-Doo 331
+M Fred 416
+D
+M Tony 50
+I Moe, 195
+L
+I Mario 50
+M Kermit 385
+I Winnie-the-Pooh 59
+I Wolverine 75
+M George 65
+L
